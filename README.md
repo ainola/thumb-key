@@ -109,7 +109,7 @@ Enabling `Backspace: Allow normal swipes to work with slide gestures`, in keyboa
 Physical keyboards, with the full-size _QWERTY_ layout, **were not designed for use on small devices like phones**; they were designed specifically for 10 fingers resting on a keybed, sitting on a secure surface.
 Phones must be held with the fore-fingers and palm, or held with one hand and typed with the other, leaving only 1 or 2 thumbs (as opposed to 10 fingers) free to perform key-presses. As texting came into being, word prediction came to be seen as the best solution to slow input speeds.
 
-On phones that used the 9-key numeric layout, [T9 predictive text](<https://en.m.wikipedia.org/wiki/T9_(predictive_text)>) was used. Other phones used the full-hand layout with the familiar _QWERTY_ layout, with other proprietary predictive methods.
+On phones that used the 9-key numeric layout, [T9 predictive text](<https://en.wikipedia.org/wiki/T9_(predictive_text)>) was used. Other phones used the full-hand layout with the familiar _QWERTY_ layout, with other proprietary predictive methods.
 
 #### When phone keyboards became Keyloggers
 
